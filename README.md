@@ -9,3 +9,5 @@ FiveM ESX Dispatch v2 by Nightt#8899 (guillerp modification)
 
 - Espero que os guste, disfrutadlo :)
 - I hope you like it, enjoy it :)
+
+grasias zGqnis por el betatester
